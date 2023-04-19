@@ -53,3 +53,25 @@ Para poder instalar Node.JS
 Para poder actualizar nuestros paquetes instalados en la mac, se hace con: 
 
 `brew install node`
+
+### Comandos básicos de la terminal
+- cd (Change Directory): moverte entre las carpetas de tu mac.
+- ls (List): Lista todas las carpetas y archivos que hay dentro de tu carpeta actual
+- code . puedes usarlo para abrir un archivo en Visual Studio Code
+- open: abre un archivo con el programa determinado.
+- sudo: permite ejecutar cualquier comando como super administrador
+- clear: Manda para arriba todos los comandos anteriores para que de la impresión de que se limpió la pantalla
+- reset: resetea la terminal
+- ctrl + c: mata cualquier proceso que se este ejecutando en ese momento de la terminal. 
+
+### Primer proyecto con React.js
+Para poder crear una aplicación con React.Js se tiene que hacer con el siguiente comando: 
+` npx create-react-app name-app `
+- Es importante que para crear este proyecto se tiene que declarar con guiones y no con la nomenclatura de camelCase.
+
+### ¿Qué es Git y Github? 
+Git es una herramienta que te permite manejar todo el versionado de tu código, ya no existe de eso “versión final”, “versión final final”, “versión final final esta sí”. Ahora con git puedes llevar un control de versiones donde puedes organizar todos los features nuevos que vayas agregando a tu aplicación. 
+
+Con git puedes crear ramas (un universo paralelo de tu proyecto), puedes juntar esas ramas, puedes ver quién tuco la culpa de qué en cada línea de código, puedes volver atrás en el tiempo, etc. 
+
+Con Github puedes alojar todo ese código y sus cambios en un servidor en la nube, así como ver el código de otras personas que tienen sus repositorios públicos. Github es como tu portafolio de proyectos como programador.
